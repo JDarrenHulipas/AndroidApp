@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RushD</string>
+    <string name="btn_play">Jugar</string>
+    <string name="btn_rank">Ránquing</string>
+    <string name="btn_settings">Ajustes</string>
+    <string name="btn_about">Sobre...</string>
+</resources>
